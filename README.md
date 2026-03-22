@@ -1,25 +1,32 @@
-# Availo 🛍️
+# Availo
 
-A marketplace app for discovering small local businesses (like nails, dresses, food, tutors, etc.)
+Availo is a platform designed for small local businesses to increase their exposure and help customers easily discover relevant businesses in their area.
 
-## 🚀 Features
-- Browse nearby businesses
-- View categories (beauty, food, services)
-- Business authentication (login/register)
-- Map integration
-- Mobile app (React Native)
+The platform focuses on businesses that are often difficult to find through Google, such as home-based services and small independent providers.
 
-## 🛠️ Tech Stack
+## Purpose
+- Help small businesses become more visible
+- Give customers a simple way to find relevant local services
+- Centralize businesses that are usually scattered across Instagram, WhatsApp, or word of mouth
+
+## Features
+- Business registration and login
+- Customer search for local businesses
+- Category-based browsing
+- Map-based discovery
+- Mobile-friendly experience
+
+## Tech Stack
 - Frontend: React Native (Expo)
 - Backend: Node.js + Express
 - Database: MongoDB
 
-## 📁 Project Structure
-- local-business-backend → server + API
-- local-business-frontend → mobile app
+## Project Structure
+- `local-business-frontend` – mobile application
+- `local-business-backend` – server and API
 
-## 🔐 Environment Variables
-.env file is required but not included for security reasons
+## Environment Variables
+A `.env` file is required for local development and is not included in the repository for security reasons.
 
-## 📌 Status
-Work in progress 🚧
+## Status
+Work in progress
