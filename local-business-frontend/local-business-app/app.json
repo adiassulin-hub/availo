@@ -38,6 +38,12 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Availo צריכה גישה למיקום כדי למצוא עסקים קרובים אליך"
+        }
       ]
     ],
     "experiments": {
